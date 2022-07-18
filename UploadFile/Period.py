@@ -8,4 +8,7 @@ class Period(UploadModelMixin, Model):
     
     def update(self):
         # TODO specify what you want to do once the model has been saved
+
+        
+
         pass
