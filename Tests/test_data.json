@@ -1,0 +1,1 @@
+[{'class': 'Period', 'action': 'create', 'parameters': {'unit_list': {}, 'name': 'Period1', 'cashflow_list': {'$path': ''}}, 'filter_parameters': {}, 'tag': 'period'}]
